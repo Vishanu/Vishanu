@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Web Development](https://github.com/Vishanu/web-tech)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/vishanugiri](https://linktr.ee/vishanugiri)
 
