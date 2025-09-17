@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishanu&label=Profile%20views&color=0e75b6&style=flat" alt="vishanu" /> </p>
 
-- 🔭 I’m currently working on [Full Stack Java Developer](https://github.com/Vishanu/Calculator)
+- 🔭 I’m currently working on [Web Development](https://github.com/Vishanu/web-tech)
 
 - 🌱 I’m currently learning **Android Development**
 
